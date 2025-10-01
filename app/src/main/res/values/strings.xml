@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Kotlin-food-delivery</string>
+    <string name="home">Home</string>
+    <string name="menu">Menù</string>
+    <string name="orders">I miei Ordini</string>
+    <string name="profile">Profilo</string>
+    <string name="back_arrow">&lt;</string>
+</resources>
